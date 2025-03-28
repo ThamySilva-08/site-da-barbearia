@@ -9,11 +9,13 @@ body{
 .principal{
     background:#CCCCCC;
     padding:30px; 
+}   
+
+.titulo-principal{
+    padding-left:20px;
 }
 
-
-
-h1 {
+.titulo-centralizado {
    text-align: center;
 }
 
@@ -36,11 +38,7 @@ p {
 
 .beneficios{
         background: #FFFFFF;    
-        padding:20%;
-}
-
-h2{
-    text-align: center ;
+        padding:20px;
 }
 
 ul{
@@ -51,5 +49,5 @@ ul{
 }
 
 .imagembeneficios{
-
+    width: 50%;
 }
